@@ -57,7 +57,7 @@
     "haye": "^2.0.2",
     "lodash": "^4.17.11",
     "macroable": "^1.0.0",
-    "node-cookie": "^2.1.1",
+    "node-cookie": "divtag-nl/node-cookie",
     "node-exceptions": "^3.0.0",
     "node-req": "^2.1.1",
     "node-res": "4.1.4",
